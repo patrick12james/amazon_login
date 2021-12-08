@@ -1,0 +1,73 @@
+.logo{
+margin-top: 20px;
+margin-bottom: 20px;
+padding-bottom: 20px;
+margin-right: auto;
+margin-left: auto;
+object-fit: cover;
+justify-content: center;
+align-items: center;
+width: 250px;
+}
+
+.page{
+  font-family: arial, sans-serif;
+  font-size: 14px;
+}
+
+.sign_in_words{
+  font-weight: lighter;
+}
+
+.sign_in{
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border: 1px solid;
+  border-radius: 3px;
+  border-color: rgba(197, 197, 197, 0.521);
+  width: 350px;
+  height: 250px;
+  padding: 1.5%;
+  background-color: rgb(255, 255, 255);
+}
+
+.continue button {
+  margin: 45px 0 30px 0;
+  height: 27px;
+  width: 365px;
+  font-size: 12px;
+  background-color: rgb(255, 204, 39);
+  font-weight: 80;
+  border-radius: 2px;
+  border: 1px solid;
+}
+
+.need_help{
+  margin: -20px;
+}
+
+.new_account button{
+  align-items: absolute;
+  margin: 40px 0 30px 0;
+  height: 27px;
+  width: 350px;
+  font-size: 12px;
+  background-color: rgb(241, 241, 241);
+  font-weight: 80;
+  border-radius: 2px;
+  border: 1px solid;
+}
+
+.footer {
+display: inline-block;
+text-align: center;
+margin-top: 0;
+padding: 0 15px;
+list-style: none;
+font-size: 16px;
+line-height: 1,6;
+opacity: 1;
+background:rgb(5, 209, 90);
+}
